@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Omar and I'm afullstack developer, from Egypt</p>
+<p align="left">My name is Omar and I'm a Fullstack developer, from Egypt</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning</p>
 
 ###
 
